@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "514559227719",
+    "firebase_url": "https://loginrx-1abc1.firebaseio.com",
+    "project_id": "loginrx-1abc1",
+    "storage_bucket": "loginrx-1abc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514559227719:android:254a37bad32d92c5f3fe62",
+        "android_client_info": {
+          "package_name": "com.example.loginrx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514559227719-3dpivocpmmhsogo0mgrrdegj4g20ko4c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginrx",
+            "certificate_hash": "86e460cfee7f8a28e69e3d949f0d82c4b4bcc394"
+          }
+        },
+        {
+          "client_id": "514559227719-bqi8t0e9bvr3c0oonhplc6685efsuqv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5X3MBX09lXlRZ9kKmHsLy-p6IINWhkSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514559227719-ja7d9prs7jnmtq4lom7pgt2j12l8un4i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
